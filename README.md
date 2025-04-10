@@ -2,6 +2,23 @@
 
 ## 🚀 CRM WhatsApp Saas - esse código não é gratuito proibido divulgar em grupos de whatsapp e outros.
 
+## 🚀 Versão 2.1.7 - 10/04/2025
+
+✅ Correção na exibição e cópia do número de contato e email.
+ * Ajuste na quebra de linha do nome do contato e melhorias de layout.
+✅ Correção do botão de reaçoes.
+✅ Melhorias de layout de Relatorios.
+✅ layout de chat melhorado e com digitando e gravando.
+✅ Adicionado Finalizar todos os tickets.
+✅ Permições de usuario limitado.
+✅ Dashboard totalmente remodulado.
+✅ Menu de log de update
+✅ Popup de aviso importante em Prompts e Campanha.
+✅ Kanban melhorado, agendamento e anotaçoes e campo de mensagem mais visivel.
+✅ Calendario no agendamento.
+✅ Segurança aprimorada entre as empresas e socket.
+✅ Aviso de conexões desativadas.
+
 ## 🚀 Versão 2.1.6 - 12/03/2025
 
 ✅ Feito correção na Open.AI agora por fila.

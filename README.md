@@ -4,6 +4,7 @@
 
 ## 🚀 Versão 2.1.7 - 10/04/2025
 
+✅ Correção de limite bot para 3.
 ✅ Correção na exibição e cópia do número de contato e email.
  * Ajuste na quebra de linha do nome do contato e melhorias de layout.
 ✅ Correção do botão de reaçoes.
